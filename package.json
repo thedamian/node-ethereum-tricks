@@ -1,0 +1,27 @@
+{
+  "name": "ethereum-blockexplorer",
+  "version": "1.0.0",
+  "description": "NodeJS Ethereum simple BlockExplorer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedamian/node-ethereum-blockexplorer.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ethereum",
+    "blockexplorer"
+  ],
+  "author": "Damian Montero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thedamian/node-ethereum-blockexplorer/issues"
+  },
+  "homepage": "https://github.com/thedamian/node-ethereum-blockexplorer#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.30"
+  }
+}
